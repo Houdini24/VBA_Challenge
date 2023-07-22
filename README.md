@@ -14,6 +14,8 @@ For 2018, the script found the following:
 
 For 2019, the script found the following:
 
+![](https://github.com/Houdini24/VBA_Challenge/blob/main/Resources/2019.png)
+
 For 2020, the script found the following:
 
 ### Acknowledgements
