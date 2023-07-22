@@ -18,6 +18,8 @@ For 2019, the script found the following:
 
 For 2020, the script found the following:
 
+![](https://github.com/Houdini24/VBA_Challenge/blob/main/Resources/2020.png)
+
 ### Acknowledgements
 I used the following resources to help complete this project:
 
