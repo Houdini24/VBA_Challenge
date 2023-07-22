@@ -10,9 +10,11 @@ In this challenge, I used VBA scripting to analyze generated stock market data. 
 ## Analysis
 For 2018, the script found the following:
 
+![](https://github.com/Houdini24/VBA_Challenge/blob/main/Resources/2018.png)
 
-![](https://github.com/Houdini24/nosql-challenge/blob/main/Resources/Screenshot%202023-07-22%20at%202.29.54%20PM.png)
+For 2019, the script found the following:
 
+For 2020, the script found the following:
 
 ### Acknowledgements
 I used the following resources to help complete this project:
